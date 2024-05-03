@@ -1,2 +1,2 @@
 # pets
-my pets store
+My pets' store
